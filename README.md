@@ -1,6 +1,18 @@
 # Build & Deploy Support Desk By Socket.IO & React.JS
 
-Screenshot
+![amazona](/frontend/public/support-desk.png)
+
+## Features:
+
+- beautiful UI by react bootstrap
+- display chat button on public website to start chat
+- browse website while chatting with admin
+- pause/resume chat with admin
+- display admin dashoard
+- show all users with their status (online, offline, new message)
+- enable live chat with selected user
+- flag new messages from online users
+- support multiple users from one single page by admin
 
 ## Run
 
