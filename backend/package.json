@@ -1,0 +1,29 @@
+{
+  "name": "amazona",
+  "version": "1.0.0",
+  "description": "Demo : https://react-node-chat-app-final.herokuapp.com/",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.1",
+    "http": "^0.0.1-security",
+    "socket.io": "^4.5.1"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basir/react-node-chat-app-final.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/basir/react-node-chat-app-final/issues"
+  },
+  "homepage": "https://github.com/basir/react-node-chat-app-final#readme",
+  "devDependencies": {
+    "eslint": "^8.22.0",
+    "nodemon": "^2.0.19"
+  }
+}
